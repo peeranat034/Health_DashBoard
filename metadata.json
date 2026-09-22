@@ -1,0 +1,6 @@
+{
+  "name": "VITA PULSE - ระบบวิเคราะห์และเฝ้าระวังสุขภาพอัจฉริยะ",
+  "description": "ระบบแดชบอร์ดติดตามและประเมินความเสี่ยงสุขภาพชุมชนแบบเรียลไทม์ โทน Pastel Tech โดย นายพีรณัฐ บุญรอด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
